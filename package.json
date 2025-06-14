@@ -1,5 +1,5 @@
 {
-  "name": "fusion-pet-generator",
+  "name": "fusion-pet-debug",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
@@ -8,10 +8,7 @@
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "three": "^0.158.0",
-    "@react-three/fiber": "^8.13.5",
-    "@react-three/drei": "^9.88.15"
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.0.0",

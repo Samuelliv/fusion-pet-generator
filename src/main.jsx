@@ -1,10 +1,10 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import './index.css'
-import FusionPetGenerator from './fusion_pet_generator.jsx'
+import DebugPage from './fusion_pet_generator.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <FusionPetGenerator />
+    <DebugPage />
   </React.StrictMode>,
 )
